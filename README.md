@@ -1,2 +1,2 @@
-# cheese_crawler
-A python crawler to fetch produtcs from REWE online shop.
+# cheese_scraper
+A python scraper to fetch produtcs from REWE online shop.
